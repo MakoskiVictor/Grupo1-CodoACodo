@@ -2,7 +2,7 @@ HOLA VISITANTE!!!'
 
 Somos alumnos del programa Codo a Codo en la modalidad de Programación FULL STACK EN JAVA, Comision 23566 - grupo 1
 
-- VICTOR MAKOSKY _ ALEXIS DAVID CONCEPCION _ BELÉN _ YESICA FERNANDEZ _ RODRIGO CARDOZO \*
+- VICTOR MAKOSKI _ ALEXIS DAVID CONCEPCION _ BELÉN _ YESICA FERNANDEZ _ RODRIGO CARDOZO \*
 
 Este proyecto constituye el trabajo final integrador de la cursada en el cual aplicaremos los conceptos aprendidos
 que comprenden los siguientes contenidos.
