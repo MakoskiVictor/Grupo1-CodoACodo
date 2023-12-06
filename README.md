@@ -5,24 +5,24 @@
 
 ### Estrutura del proyecto:
 
-proyecto/ 
-    src/
-        main/ 
-            java/
-                com/
-                    proyecto/
-                        model/
-                            package-info.java
-                        package-info.java
-                    util/
-                        package-info.java
-            resources/
-                Main.java
-    pom.xml
-    README.md
-
-
-
+<pre>
+.
+└── Grupo1-CodoACodo
+    ├── pom.xml
+    ├── README.md
+    └── src
+        └── main
+            ├── java
+            │   └── com
+            │       ├── proyecto
+            │       │   ├── model
+            │       │   │   └── package-info.java
+            │       │   └── package-info.java
+            │       └── util
+            │           └── package-info.java
+            └── resources
+                └── Main.java
+</pre>
 
 ------------
 
