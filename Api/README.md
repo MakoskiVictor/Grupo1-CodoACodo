@@ -1,3 +1,38 @@
+
+# Proyecto final Programación FULL STACK EN JAVA, Comision 23566 - grupo 1
+
+### Nuestro proyecto estaria constituido por 3 paginas, una landing page donde se muestre el resumen de la saga de harry Potter, una home page donde se pueda visualizar las cards de cada personaje con sus caracteristicas principiles tales como tipo, casa a la que pertenece, fortalezas y debilidades, aqui es donde utilizariamos alguna base de datos para almazenar y consultar dichas caracteristicas y cargarlas en nuestra pagina segun la solicitud de quien este navegando por el sitio, y por ultimo una pagina de mantenimiento con acceso restringido que nos permita a los administradores crear nuevas cards asi como tambien modificar las existentes. Como un plus se podria crear una pagina extra donde cada uno pueda crear su propio personaje como si fuera parte de la saga de Harry Potter. 
+
+### Acceso a nuetro proyecto a traves de la siguiente web: TBD
+
+### Estrutura del proyecto:
+
+<pre>
+.
+└── Grupo1-CodoACodo
+    ├── pom.xml
+    ├── README.md
+    └── src
+        └── main
+            ├── java
+            │   └── com
+            │       ├── proyecto
+            │       │   ├── model
+            │       │   │   └── package-info.java
+            │       │   └── package-info.java
+            │       └── util
+            │           └── package-info.java
+            └── resources
+                └── Main.java
+</pre>
+
+### Para consultas, sugerencias, sporte, etc nos ueden contactar a fake-mail@gmail.com
+
+
+
+------------
+
+
 HOLA VISITANTE!!!'
 
 Somos alumnos del programa Codo a Codo en la modalidad de Programación FULL STACK EN JAVA, Comision 23566 - grupo 1
@@ -31,3 +66,6 @@ SOBRE EL SITIO: www.xxxxxx.com ver. 1.0
 > > > Contactos... (Mail, portfolio, otros proyectos, etc.)
 
 2023
+
+------------
+
