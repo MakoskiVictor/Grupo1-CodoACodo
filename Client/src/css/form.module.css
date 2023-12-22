@@ -1,0 +1,61 @@
+.section {
+  padding: 10px;
+  height: 100vh;
+  width: 100%;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.form {
+  padding: 5px;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  border: solid 2px gray;
+}
+
+input {
+  width: 80%;
+  height: 30px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.loading {
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.btn {
+  background-color: rgb(64, 64, 239);
+  display: inline-block;
+  width: 200px;
+  margin: 20px;
+}
+
+.btn2 {
+  background-color: rgb(107, 107, 107);
+  display: inline-block;
+  width: 200px;
+  margin: 20px;
+}
+
+.btn:hover {
+  background-color: rgb(77, 77, 237);
+  animation-name: btn_ani;
+  animation-duration: 1s;
+}
+
+@keyframes btn_ani {
+  from {
+    background-color: rgb(64, 64, 239);
+  }
+  to {
+    background-color: rgb(77, 77, 237);
+  }
+}
